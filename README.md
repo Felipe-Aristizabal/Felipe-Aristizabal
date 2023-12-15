@@ -1,7 +1,7 @@
 # Hello, I'm Andrés Aristizábal! 👋
 
 ## About Me 🚀
-I'm currently wrapping up my seventh semester in Multimedia Engineering at the **Universidad Autónoma de Occidente**. 
+I'm currently wrapping up my eight semester in Multimedia Engineering at the **Universidad Autónoma de Occidente**. 
 I'm passionate about the power of Python and its applications in Machine Learning and Deep Learning. 
 I'm also a dedicated gamer and programmer, with a strong interest in developing games using C#.
 
