@@ -13,6 +13,7 @@ I'm also a dedicated gamer and programmer, with a strong interest in developing 
 ## Projects 🛠️
 
 ### Click and Count
+- **Video:** [YouTube](https://www.youtube.com/watch?v=PyyoOLAjhYI)
 - **Repo:** [ClickAndCount](https://github.com/Felipe-Aristizabal/ClickAndCount)
 - **Description:** "Click and Count" is an adrenaline-pumping game where precision and pace go hand in hand. Dive into a world where every click counts, and time is of the essence. Your mission: to click all objects on the screen before time slips away.
 With a seamless integration of scenes and a persistent state across transitions, thanks to our dedicated Scene Management system, the gameplay is smooth and uninterrupted. The GameManager stands at the core, diligently tracking your scores and time, making every session a race to beat your best.
@@ -22,6 +23,7 @@ With a seamless integration of scenes and a persistent state across transitions,
 - **Description:** This project involves implementing transfer learning for a machine learning model to detect pneumonia from X-ray images. By leveraging pre-trained models, the project achieves high accuracy and efficiency in classification, contributing significantly to the medical field by optimizing diagnosis and patient management processes.
 
 ### Traffic-Sign-Classifier
+- **Video:** [YouTube](https://www.youtube.com/watch?v=L51mIgqJ7Gw)
 - **Repo:** [Traffic-Sign-Classifier](https://github.com/Felipe-Aristizabal/Traffic-Sign-Classifier)
 - **Description:** In a quest to educate fifth graders on road safety, this project presents a real-time traffic sign classifier.
 Built with Python and InceptionV3, it's a tool for the young minds in Santiago de Cali to learn about road signs effectively,
@@ -34,6 +36,7 @@ audio feature extraction, and machine learning, this game responds to voice comm
 experience that pushes the boundaries of interactive play.
 
 ### RedAndBlackRV
+- **Video:** [YouTube](https://www.youtube.com/watch?v=dVKjkgNaql0)
 - **Repo:** [RedAndBlackRV](https://github.com/Felipe-Aristizabal/RedAndBlackRV)
 - **Description:** Experience the thrill of a casino in VR with Red And Black RV. This game, designed for Oculus DK2 and Leap Motion,
 places you in the shoes of a university student at a roulette table, gambling tuition fees for a chance to win big. It's a daring blend
