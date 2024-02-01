@@ -12,6 +12,12 @@ I'm also a dedicated gamer and programmer, with a strong interest in developing 
 
 ## Projects 🛠️
 
+### What A Fart!
+- **Repo:** [WhatAFart](https://github.com/haruyoshie/WhatAFart)
+- **Description:** What A Fart! is a unique strategy game developed during the Global Game Jam 2024 at Globant Connecta. Players step into the shoes of Gus Gastro, a waiter who despises customer service. The game combines humor and strategy as Gus must consume "harmful" food to power up his fart meter and strategically release gas to clear the restaurant of customers, all while avoiding getting caught.
+Developed with Unity for PC, What A Fart! is designed to offer laughs and challenges to players of all ages. Join Gus in his quest for peace and quiet in the chaos of customer service! This idea was implemented during the Global Game Jam 2024 at Globant Connecta for the "Make me laugh" theme.
+
+
 ### Click and Count
 - **Video:** [YouTube](https://www.youtube.com/watch?v=PyyoOLAjhYI)
 - **Repo:** [ClickAndCount](https://github.com/Felipe-Aristizabal/ClickAndCount)
@@ -49,6 +55,7 @@ pushing the boundaries of technology and creativity, I'd love to hear from you!
 ## Find Me Elsewhere 🌐
 - [LinkedIn](https://www.linkedin.com/in/felipearistizabal/)
 - [Portfolio](https://github.com/Felipe-Aristizabal)
+- [Itch.io](https://felipe-aristizabal.itch.io)
 
 ## Let's Build Something Amazing Together!
 Feel free to reach out for collaborations or just a chat about tech, games, and AI. I'm always open to new ideas and opportunities.
