@@ -17,7 +17,6 @@ I'm also a dedicated gamer and programmer, with a strong interest in developing 
 - **Description:** What A Fart! is a unique strategy game developed during the Global Game Jam 2024 at Globant Connecta. Players step into the shoes of Gus Gastro, a waiter who despises customer service. The game combines humor and strategy as Gus must consume "harmful" food to power up his fart meter and strategically release gas to clear the restaurant of customers, all while avoiding getting caught.
 Developed with Unity for PC, What A Fart! is designed to offer laughs and challenges to players of all ages. Join Gus in his quest for peace and quiet in the chaos of customer service! This idea was implemented during the Global Game Jam 2024 at Globant Connecta for the "Make me laugh" theme.
 
-
 ### Click and Count
 - **Video:** [YouTube](https://www.youtube.com/watch?v=PyyoOLAjhYI)
 - **Repo:** [ClickAndCount](https://github.com/Felipe-Aristizabal/ClickAndCount)
@@ -47,6 +46,10 @@ experience that pushes the boundaries of interactive play.
 - **Description:** Experience the thrill of a casino in VR with Red And Black RV. This game, designed for Oculus DK2 and Leap Motion,
 places you in the shoes of a university student at a roulette table, gambling tuition fees for a chance to win big. It's a daring blend
 of reality and virtual excitement, posing the question: will you risk it all?
+
+### Ty's Dream
+- **Repo** [Ty's Dream](https://github.com/Felipe-Aristizabal/Ty-s-Dream)
+- **Description:** Timmy's Mind Adventure is an immersive adventure game developed using Unity. The project was undertaken with the aim of utilizing prior knowledge and independent work. The player embarks on a journey through the subconscious mind of Timmy, a young boy who must navigate his imagined world after a head injury.
 
 ## Collaborate with Me 🤝
 I'm on a quest to merge AI with multimedia to not just play games but to create rich, dynamic experiences. If you're interested in 
