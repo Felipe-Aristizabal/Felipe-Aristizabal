@@ -28,6 +28,8 @@ I'm also passionate about the power of Python and its applications in Machine Le
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
 
+## My Stats :bar_chart:
+![Felipe's GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Aristizabal&hide_border=true)
 
 ## Projects 🛠️
 
