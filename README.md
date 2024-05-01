@@ -48,20 +48,6 @@ I'm also passionate about the power of Python and its applications in Machine Le
 - - Particle system collision
   - Interfaces implementation
   - Navigation through interfaces
-  
-### Click and Count
-- **Video:** [YouTube](https://www.youtube.com/watch?v=PyyoOLAjhYI)
-- **Itch:** [Itch.io](https://felipe-aristizabal.itch.io/clickandcount)
-- **Repo:** [ClickAndCount](https://github.com/Felipe-Aristizabal/ClickAndCount)
-- **Description:** "Click and Count" is an adrenaline-pumping game where precision and pace go hand in hand. Dive into a world where every click counts, and time is of the essence. Your mission: to click all objects on the screen before time slips away.
-- **Responsabilities:** All the development.
-
-### Pneumonia Detection
-- **Repo:** [MLDS_U6_PROYECTO_FINAL_ARISTIZABAL_RENDON](https://github.com/SRENDONP/MLDS_U6_PROYECTO_FINAL_ARISTIZABAL_RENDON)
-- **Description:** This project involves implementing transfer learning for a machine learning model to detect pneumonia from X-ray images. By leveraging pre-trained models, the project achieves high accuracy and efficiency in classification, contributing significantly to the medical field by optimizing diagnosis and patient management processes.
-- **Responsabilities:**
--  - Model training
-   - Deploy the application as a web service
 
 ### Traffic-Sign-Classifier
 - **Video:** [YouTube](https://www.youtube.com/watch?v=L51mIgqJ7Gw)
@@ -71,29 +57,6 @@ I'm also passionate about the power of Python and its applications in Machine Le
 - - Preprocess the data
   - Model training
   - Model selection
-
-### SpeechRecognition-ML
-- **Repo:** [Tetris-speech-recognition](https://github.com/Hector-f-Romero/Tetris-speech-recognition)
-- **Description:** Dive into the world of voice-controlled gaming with this innovative project. By combining signal processing, audio feature extraction, and machine learning, this game responds to voice commands in Spanish, offering a hands-free gaming experience that pushes the boundaries of interactive play.
-- **Responsabilities:**
-- - Preprocess the data
-  - Model training
-  - Model selection
-
-### RedAndBlackRV
-- **Video:** [YouTube](https://www.youtube.com/watch?v=dVKjkgNaql0)
-- **Repo:** [RedAndBlackRV](https://github.com/Felipe-Aristizabal/RedAndBlackRV)
-- **Description:** Experience the thrill of a casino in VR with Red And Black RV. This game, designed for Oculus DK2 and Leap Motion, places you in the shoes of a university student at a roulette table, gambling tuition fees for a chance to win big. It's a daring blend of reality and virtual excitement, posing the question: will you risk it all?
-- **Responsabilities:**
-- - Logic for betting
-  - Animation controller development
-
-### Ty's Dream
-- **Repo** [Ty's Dream](https://github.com/Felipe-Aristizabal/Ty-s-Dream)
-- **Description:** Timmy's Mind Adventure is an immersive adventure game developed using Unity. The project was undertaken with the aim of utilizing prior knowledge and independent work. The player embarks on a journey through the subconscious mind of Timmy, a young boy who must navigate his imagined world after a head injury.
-- **Responsabilities:**
-- - AI Enemy
-  - Animation controller development
 
 ## Collaborate with Me 🤝
 I'm on a quest to merge AI with multimedia to not just play games but to create rich, dynamic experiences. If you're interested in 
