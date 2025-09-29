@@ -51,9 +51,8 @@ I build playful, culturally-rooted and education-driven experiences using **Unit
 ### 💥 Plop POOM
 
 <p align="center">
-  <img src="img/ploppoom_1.gif" width="31%"/>
-  <img src="img/ploppoom_2.png" width="31%"/>
-  <img src="img/ploppoom_3.png" width="31%"/>
+  <img src="img/Plop Poom/Plop POOM 1.png" width="30%"/>
+  <img src="img/Plop Poom/Team.png" width="30%"/>
 </p>
 
 <div align="right">
@@ -82,10 +81,10 @@ I build playful, culturally-rooted and education-driven experiences using **Unit
 ---
 
 ### 🌍 Afrokids
+
 <p align="center">
-  <img src="img/afrokids_1.gif" width="31%"/>
-  <img src="img/afrokids_2.png" width="31%"/>
-  <img src="img/afrokids_3.png" width="31%"/>
+  <img src="img/AfroKids/Team.jpeg" width="31%"/>
+  <img src="img/AfroKids/Galworld.jpeg" width="31%"/>
 </p>
 
 <div align="right">
@@ -113,9 +112,8 @@ I build playful, culturally-rooted and education-driven experiences using **Unit
 
 ### 🔥 ThermoRacing
 <p align="center">
-  <img src="img/thermoracing_1.gif" width="31%"/>
-  <img src="img/thermoracing_2.png" width="31%"/>
-  <img src="img/thermoracing_3.png" width="31%"/>
+  <img src="img/ThermoRacing/Team.jpg" width="30%"/>
+  <img src="img/ThermoRacing/ThermoRacing 1.jpg" width="50%"/>
 </p>
 
 <div align="right">
